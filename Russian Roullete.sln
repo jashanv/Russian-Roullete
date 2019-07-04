@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29006.145
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Russian Roullete", "Russian Roullete\Russian Roullete.csproj", "{7E23ACD4-6499-4C88-9FD3-E944C3E3C557}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameUnitTesting", "GameUnitTesting\GameUnitTesting.csproj", "{490C768D-084B-44F0-84CD-39C1C3886D1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E23ACD4-6499-4C88-9FD3-E944C3E3C557}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E23ACD4-6499-4C88-9FD3-E944C3E3C557}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E23ACD4-6499-4C88-9FD3-E944C3E3C557}.Debug|x64.ActiveCfg = Debug|x64
+		{7E23ACD4-6499-4C88-9FD3-E944C3E3C557}.Debug|x64.Build.0 = Debug|x64
+		{7E23ACD4-6499-4C88-9FD3-E944C3E3C557}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E23ACD4-6499-4C88-9FD3-E944C3E3C557}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E23ACD4-6499-4C88-9FD3-E944C3E3C557}.Release|x64.ActiveCfg = Release|x64
+		{7E23ACD4-6499-4C88-9FD3-E944C3E3C557}.Release|x64.Build.0 = Release|x64
+		{490C768D-084B-44F0-84CD-39C1C3886D1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{490C768D-084B-44F0-84CD-39C1C3886D1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{490C768D-084B-44F0-84CD-39C1C3886D1E}.Debug|x64.ActiveCfg = Debug|x64
+		{490C768D-084B-44F0-84CD-39C1C3886D1E}.Debug|x64.Build.0 = Debug|x64
+		{490C768D-084B-44F0-84CD-39C1C3886D1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{490C768D-084B-44F0-84CD-39C1C3886D1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{490C768D-084B-44F0-84CD-39C1C3886D1E}.Release|x64.ActiveCfg = Release|x64
+		{490C768D-084B-44F0-84CD-39C1C3886D1E}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F09D096-0A3E-4BC4-8765-407C5206C49A}
+	EndGlobalSection
+EndGlobal
